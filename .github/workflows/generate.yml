@@ -42,7 +42,8 @@ jobs:
         run: gh-all-repos list ${{ matrix.user }} --no-fork --no-archived --no-template | while read project; do github-run-script --quiet=true "$PWD/user-repos-github-action-badge-generator/wrapper.sh" "$project"; done > "dashboard-${{ matrix.user }}.md"
       - name: Commit and push
         run: |
-          git add .
+          git add "dashboard-${{ matrix.user }}.md"
+          git diff-index --quiet HEAD -- || exit 0 # Exit if no changes
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
           git commit -m "Update dashboard for ${{ matrix.user }}"
