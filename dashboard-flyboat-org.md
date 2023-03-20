@@ -1,0 +1,6 @@
+## [frontend](https://github.com/flyboat-org/frontend)
+[![Mirroring](https://github.com/flyboat-org/frontend/actions/workflows/mirroring.yml/badge.svg)](https://github.com/flyboat-org/frontend/actions/workflows/mirroring.yml) [![Deploy Production](https://github.com/flyboat-org/frontend/actions/workflows/deploy-main.yml/badge.svg)](https://github.com/flyboat-org/frontend/actions/workflows/deploy-main.yml) [![CodeQL](https://github.com/flyboat-org/frontend/actions/workflows/codeql.yml/badge.svg)](https://github.com/flyboat-org/frontend/actions/workflows/codeql.yml) 
+
+### Other Workflows
+[![Deploy Staging](https://github.com/flyboat-org/frontend/actions/workflows/deploy-not-main.yml/badge.svg)](https://github.com/flyboat-org/frontend/actions/workflows/deploy-not-main.yml) [![Lint](https://github.com/flyboat-org/frontend/actions/workflows/lint.yml/badge.svg)](https://github.com/flyboat-org/frontend/actions/workflows/lint.yml) [![Dependency Review](https://github.com/flyboat-org/frontend/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/flyboat-org/frontend/actions/workflows/dependency-review.yml) [![Build](https://github.com/flyboat-org/frontend/actions/workflows/build.yml/badge.svg)](https://github.com/flyboat-org/frontend/actions/workflows/build.yml) 
+
