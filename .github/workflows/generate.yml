@@ -39,7 +39,7 @@ jobs:
           pipenv install
           cd ..
       - name: Generate new dashboard for ${{ matrix.user }}
-        run: ls -Rl . && ls -l /usr/bin/env && cat $(which gh-all-repos) && gh-all-repos list ${{ matrix.user }} --no-fork --no-archived --no-template | while read project; do github-run-script --quiet=true "./user-repos-github-action-badge-generator/wrapper.sh" "$project"; done > "dashboard-${{ matrix.user }}.md"
+        run: ls -Rl . && ls -l /usr/bin/env && cat $(which gh-all-repos) && ls -l ./user-repos-github-action-badge-generator/wrapper.sh && cat ./user-repos-github-action-badge-generator/wrapper.sh && gh-all-repos list ${{ matrix.user }} --no-fork --no-archived --no-template | while read project; do github-run-script --quiet=true "./user-repos-github-action-badge-generator/wrapper.sh" "$project"; done > "dashboard-${{ matrix.user }}.md"
       - name: Commit and push
         run: |
           git add .
