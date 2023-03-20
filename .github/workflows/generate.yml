@@ -1,0 +1,55 @@
+name: Generate new Dashboard
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        user:
+          - PythonCoderAS
+          - RCOS-IHP
+          - flyboat-org
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup linuxbrew
+        run: |
+          sudo apt-get install build-essential curl file git
+          /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+          test -d ~/.linuxbrew && eval $(~/.linuxbrew/bin/brew shellenv)
+          test -d /home/linuxbrew/.linuxbrew && eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
+          test -r ~/.bash_profile && echo "eval \$($(brew --prefix)/bin/brew shellenv)" >>~/.bash_profile
+          echo "eval \$($(brew --prefix)/bin/brew shellenv)" >>~/.profile
+      - name: Clone dependent repo
+        run: git clone https://github.com/PythonCoderAS/user-repos-github-action-badge-generator.git
+      - name: Install linuxbrew packages
+        run: brew install pythoncoderas/brew/gh-all-repos pythoncoderas/brew/github-run-script
+      - name: Setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Install python packages
+        run: |
+          cd user-repos-github-action-badge-generator
+          pip install pipenv
+          pipenv install
+          cd ..
+      - name: Generate new dashboard for ${{ matrix.user }}
+        run: gh-all-repos list ${{ matrix.user }} --no-fork --no-archived --no-template | while read project; do github-run-script --quiet=true ./user-repos-github-action-badge-generator/wrapper.sh "$project"; done > "dashboard-${{ matrix.user }}.md"
+      - name: Commit and push
+        run: |
+          git add .
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git commit -m "Update dashboard for ${{ matrix.user }}"
+          sleep $[ ( $RANDOM % 10 )  + 1 ] # Random sleep
+          git pull --rebase
+          git push || git pull --rebase && git push
