@@ -17,9 +17,10 @@
 [![Auto-merge](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/auto-merge.yml) [![Node.js Package](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/npm-publish.yml) [![Greetings](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/greetings.yml/badge.svg)](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/greetings.yml) 
 
 ## [dashboard](https://github.com/PythonCoderAS/dashboard)
-[![Generate new Dashboard](https://github.com/PythonCoderAS/dashboard/actions/workflows/generate.yml/badge.svg)](https://github.com/PythonCoderAS/dashboard/actions/workflows/generate.yml) 
+[![Generate new Dashboard](https://github.com/PythonCoderAS/dashboard/actions/workflows/generate.yml/badge.svg)](https://github.com/PythonCoderAS/dashboard/actions/workflows/generate.yml) [![Auto Update](https://github.com/PythonCoderAS/dashboard/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/dashboard/actions/workflows/auto-update.yml) 
 
-
+### Other Workflows
+[![Auto-merge](https://github.com/PythonCoderAS/dashboard/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/dashboard/actions/workflows/auto-merge.yml) 
 
 ## [eslint-config-pythoncoderas](https://github.com/PythonCoderAS/eslint-config-pythoncoderas)
 [![CodeQL](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/codeql-analysis.yml) [![Auto Update](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/auto-update.yml) [![Node.js Lint](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/lint.yml) [![Semantic Release](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/build.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/build.yml) 
