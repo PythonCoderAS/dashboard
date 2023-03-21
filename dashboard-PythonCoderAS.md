@@ -76,6 +76,11 @@
 ### Other Workflows
 [![Auto-merge](https://github.com/PythonCoderAS/mal-forum-thread-next-post/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/mal-forum-thread-next-post/actions/workflows/auto-merge.yml) 
 
+## [repos](https://github.com/PythonCoderAS/repos)
+[![Generate Stubs](https://github.com/PythonCoderAS/repos/actions/workflows/generate-stub.yml/badge.svg)](https://github.com/PythonCoderAS/repos/actions/workflows/generate-stub.yml) 
+
+
+
 ## [simple-tsx](https://github.com/PythonCoderAS/simple-tsx)
 [![CodeQL](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/codeql-analysis.yml) [![Auto Update](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/auto-update.yml) [![Node.js Lint](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/lint.yml) [![Node.js CI](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/test.yml/badge.svg)](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/test.yml) 
 
