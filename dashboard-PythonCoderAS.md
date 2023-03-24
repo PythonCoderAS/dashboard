@@ -1,5 +1,5 @@
 ## [array-string-map](https://github.com/PythonCoderAS/array-string-map)
-[![CodeQL](https://github.com/PythonCoderAS/array-string-map/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/codeql-analysis.yml) [![Auto Update](https://github.com/PythonCoderAS/array-string-map/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/auto-update.yml) 
+[![Deploy static content to Pages](https://github.com/PythonCoderAS/array-string-map/actions/workflows/docs.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/docs.yml) [![CodeQL](https://github.com/PythonCoderAS/array-string-map/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/codeql-analysis.yml) [![Auto Update](https://github.com/PythonCoderAS/array-string-map/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/auto-update.yml) 
 
 ### Other Workflows
 [![Auto-merge](https://github.com/PythonCoderAS/array-string-map/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/auto-merge.yml) [![Node.js Package](https://github.com/PythonCoderAS/array-string-map/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/npm-publish.yml) [![Greetings](https://github.com/PythonCoderAS/array-string-map/actions/workflows/greetings.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/greetings.yml) 
@@ -77,7 +77,7 @@
 [![Auto-merge](https://github.com/PythonCoderAS/mal-forum-thread-next-post/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/mal-forum-thread-next-post/actions/workflows/auto-merge.yml) 
 
 ## [repos](https://github.com/PythonCoderAS/repos)
-[![Generate Stubs](https://github.com/PythonCoderAS/repos/actions/workflows/generate-stub.yml/badge.svg)](https://github.com/PythonCoderAS/repos/actions/workflows/generate-stub.yml) 
+[![Generate and Deploy](https://github.com/PythonCoderAS/repos/actions/workflows/generate.yml/badge.svg)](https://github.com/PythonCoderAS/repos/actions/workflows/generate.yml) 
 
 
 
