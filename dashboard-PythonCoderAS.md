@@ -17,7 +17,7 @@
 [![Auto-merge](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/auto-merge.yml) [![Node.js Package](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/npm-publish.yml) [![Greetings](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/greetings.yml/badge.svg)](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/greetings.yml) 
 
 ## [dashboard](https://github.com/PythonCoderAS/dashboard)
-[![Generate new Dashboard](https://github.com/PythonCoderAS/dashboard/actions/workflows/generate.yml/badge.svg)](https://github.com/PythonCoderAS/dashboard/actions/workflows/generate.yml) [![Auto Update](https://github.com/PythonCoderAS/dashboard/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/dashboard/actions/workflows/auto-update.yml) 
+[![Generate new Dashboard](https://github.com/PythonCoderAS/dashboard/actions/workflows/generate.yml/badge.svg)](https://github.com/PythonCoderAS/dashboard/actions/workflows/generate.yml) 
 
 ### Other Workflows
 [![Auto-merge](https://github.com/PythonCoderAS/dashboard/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/dashboard/actions/workflows/auto-merge.yml) 
