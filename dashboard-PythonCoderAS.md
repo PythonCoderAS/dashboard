@@ -1,3 +1,9 @@
+## [anilist-stats-historical-data](https://github.com/PythonCoderAS/anilist-stats-historical-data)
+[![CodeQL](https://github.com/PythonCoderAS/anilist-stats-historical-data/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/anilist-stats-historical-data/actions/workflows/codeql-analysis.yml) [![Auto Update](https://github.com/PythonCoderAS/anilist-stats-historical-data/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/anilist-stats-historical-data/actions/workflows/auto-update.yml) 
+
+### Other Workflows
+[![Auto-merge](https://github.com/PythonCoderAS/anilist-stats-historical-data/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/anilist-stats-historical-data/actions/workflows/auto-merge.yml) 
+
 ## [array-string-map](https://github.com/PythonCoderAS/array-string-map)
 [![Deploy static content to Pages](https://github.com/PythonCoderAS/array-string-map/actions/workflows/docs.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/docs.yml) [![CodeQL](https://github.com/PythonCoderAS/array-string-map/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/codeql-analysis.yml) [![Auto Update](https://github.com/PythonCoderAS/array-string-map/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/auto-update.yml) 
 
@@ -45,6 +51,12 @@
 
 ### Other Workflows
 [![Node.js Package](https://github.com/PythonCoderAS/get-github-token/actions/workflows/publish.yml/badge.svg)](https://github.com/PythonCoderAS/get-github-token/actions/workflows/publish.yml) [![Auto-merge](https://github.com/PythonCoderAS/get-github-token/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/get-github-token/actions/workflows/auto-merge.yml) 
+
+## [get-online-database-item-counts](https://github.com/PythonCoderAS/get-online-database-item-counts)
+[![CodeQL](https://github.com/PythonCoderAS/get-online-database-item-counts/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/get-online-database-item-counts/actions/workflows/codeql-analysis.yml) [![Auto Update](https://github.com/PythonCoderAS/get-online-database-item-counts/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/get-online-database-item-counts/actions/workflows/auto-update.yml) 
+
+### Other Workflows
+[![Auto-merge](https://github.com/PythonCoderAS/get-online-database-item-counts/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/get-online-database-item-counts/actions/workflows/auto-merge.yml) 
 
 ## [gh-all-repos](https://github.com/PythonCoderAS/gh-all-repos)
 [![CodeQL](https://github.com/PythonCoderAS/gh-all-repos/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/gh-all-repos/actions/workflows/codeql-analysis.yml) [![Auto Update](https://github.com/PythonCoderAS/gh-all-repos/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/gh-all-repos/actions/workflows/auto-update.yml) [![Node.js Lint](https://github.com/PythonCoderAS/gh-all-repos/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/gh-all-repos/actions/workflows/lint.yml) [![Node.js CI](https://github.com/PythonCoderAS/gh-all-repos/actions/workflows/test.yml/badge.svg)](https://github.com/PythonCoderAS/gh-all-repos/actions/workflows/test.yml) 
