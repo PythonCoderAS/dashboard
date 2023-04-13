@@ -159,6 +159,12 @@
 ### Other Workflows
 [![Auto-merge](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/auto-merge.yml) 
 
+## [wikidata-item-sequence-creator](https://github.com/PythonCoderAS/wikidata-item-sequence-creator)
+[![Auto Update](https://github.com/PythonCoderAS/wikidata-item-sequence-creator/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-item-sequence-creator/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/wikidata-item-sequence-creator/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-item-sequence-creator/actions/workflows/codeql-analysis.yml) 
+
+### Other Workflows
+[![Auto-merge](https://github.com/PythonCoderAS/wikidata-item-sequence-creator/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-item-sequence-creator/actions/workflows/auto-merge.yml) 
+
 ## [wikidata-mix-n-match-bot](https://github.com/PythonCoderAS/wikidata-mix-n-match-bot)
 [![Auto Update](https://github.com/PythonCoderAS/wikidata-mix-n-match-bot/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-mix-n-match-bot/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/wikidata-mix-n-match-bot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-mix-n-match-bot/actions/workflows/codeql-analysis.yml) 
 
