@@ -117,12 +117,6 @@
 ### Other Workflows
 [![Auto-merge](https://github.com/PythonCoderAS/Wayback-Archiver-Client/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/Wayback-Archiver-Client/actions/workflows/auto-merge.yml) 
 
-## [Wayback-Archiver-Server](https://github.com/PythonCoderAS/Wayback-Archiver-Server)
-[![Auto Update](https://github.com/PythonCoderAS/Wayback-Archiver-Server/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/Wayback-Archiver-Server/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/Wayback-Archiver-Server/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/Wayback-Archiver-Server/actions/workflows/codeql-analysis.yml) 
-
-### Other Workflows
-[![Auto-merge](https://github.com/PythonCoderAS/Wayback-Archiver-Server/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/Wayback-Archiver-Server/actions/workflows/auto-merge.yml) 
-
 ## [wikidata-animanga-db-matcher-backend](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend)
 [![Node.js Lint](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend/actions/workflows/lint.yml) [![CodeQL](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend/actions/workflows/codeql-analysis.yml) 
 
