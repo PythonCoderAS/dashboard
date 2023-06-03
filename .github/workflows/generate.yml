@@ -18,7 +18,6 @@ jobs:
       matrix:
         user:
           - PythonCoderAS
-          - RCOS-IHP
           - flyboat-org
     steps:
       - uses: actions/checkout@v3
