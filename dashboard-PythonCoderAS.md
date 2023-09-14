@@ -129,29 +129,11 @@
 ### Other Workflows
 [![Auto-merge](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-frontend/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-frontend/actions/workflows/auto-merge.yml) 
 
-## [wikidata-anime-episode-quick-add](https://github.com/PythonCoderAS/wikidata-anime-episode-quick-add)
-[![Auto Update](https://github.com/PythonCoderAS/wikidata-anime-episode-quick-add/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-anime-episode-quick-add/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/wikidata-anime-episode-quick-add/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-anime-episode-quick-add/actions/workflows/codeql-analysis.yml) 
-
-### Other Workflows
-[![Auto-merge](https://github.com/PythonCoderAS/wikidata-anime-episode-quick-add/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-anime-episode-quick-add/actions/workflows/auto-merge.yml) 
-
-## [wikidata-anime-import](https://github.com/PythonCoderAS/wikidata-anime-import)
-[![Auto Update](https://github.com/PythonCoderAS/wikidata-anime-import/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-anime-import/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/wikidata-anime-import/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-anime-import/actions/workflows/codeql-analysis.yml) 
-
-### Other Workflows
-[![Auto-merge](https://github.com/PythonCoderAS/wikidata-anime-import/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-anime-import/actions/workflows/auto-merge.yml) 
-
 ## [wikidata-bot-framework](https://github.com/PythonCoderAS/wikidata-bot-framework)
 [![Auto Update](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/codeql-analysis.yml) [![Deploy Docs to Pages](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/docs.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/docs.yml) 
 
 ### Other Workflows
 [![Auto-merge](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/auto-merge.yml) 
-
-## [wikidata-fast-query](https://github.com/PythonCoderAS/wikidata-fast-query)
-[![Auto Update](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/codeql-analysis.yml) [![Deploy Docs to Pages](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/docs.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/docs.yml) 
-
-### Other Workflows
-[![Auto-merge](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/auto-merge.yml) 
 
 ## [wikidata-item-sequence-creator](https://github.com/PythonCoderAS/wikidata-item-sequence-creator)
 [![Auto Update](https://github.com/PythonCoderAS/wikidata-item-sequence-creator/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-item-sequence-creator/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/wikidata-item-sequence-creator/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-item-sequence-creator/actions/workflows/codeql-analysis.yml) 
