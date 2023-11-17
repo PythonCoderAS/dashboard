@@ -41,10 +41,9 @@
 [![Auto-merge](https://github.com/PythonCoderAS/eslint-config-pythoncoderas-combo/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas-combo/actions/workflows/auto-merge.yml) 
 
 ## [eslint-config-pythoncoderas-typescript](https://github.com/PythonCoderAS/eslint-config-pythoncoderas-typescript)
-[![Auto Update](https://github.com/PythonCoderAS/eslint-config-pythoncoderas-typescript/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas-typescript/actions/workflows/auto-update.yml) [![Semantic Release](https://github.com/PythonCoderAS/eslint-config-pythoncoderas-typescript/actions/workflows/build.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas-typescript/actions/workflows/build.yml) [![CodeQL](https://github.com/PythonCoderAS/eslint-config-pythoncoderas-typescript/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas-typescript/actions/workflows/codeql-analysis.yml) [![Node.js Lint](https://github.com/PythonCoderAS/eslint-config-pythoncoderas-typescript/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas-typescript/actions/workflows/lint.yml) 
+[![Semantic Release](https://github.com/PythonCoderAS/eslint-config-pythoncoderas-typescript/actions/workflows/build.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas-typescript/actions/workflows/build.yml) [![CodeQL](https://github.com/PythonCoderAS/eslint-config-pythoncoderas-typescript/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas-typescript/actions/workflows/codeql-analysis.yml) [![Node.js Lint](https://github.com/PythonCoderAS/eslint-config-pythoncoderas-typescript/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas-typescript/actions/workflows/lint.yml) 
 
-### Other Workflows
-[![Auto-merge](https://github.com/PythonCoderAS/eslint-config-pythoncoderas-typescript/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas-typescript/actions/workflows/auto-merge.yml) 
+
 
 ## [get-github-token](https://github.com/PythonCoderAS/get-github-token)
 [![Auto Update](https://github.com/PythonCoderAS/get-github-token/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/get-github-token/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/get-github-token/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/get-github-token/actions/workflows/codeql-analysis.yml) [![Node.js Lint](https://github.com/PythonCoderAS/get-github-token/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/get-github-token/actions/workflows/lint.yml) [![Node.js CI](https://github.com/PythonCoderAS/get-github-token/actions/workflows/test.yml/badge.svg)](https://github.com/PythonCoderAS/get-github-token/actions/workflows/test.yml) 
@@ -117,12 +116,6 @@
 
 ### Other Workflows
 [![Auto-merge](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend/actions/workflows/auto-merge.yml) 
-
-## [wikidata-animanga-db-matcher-frontend](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-frontend)
-[![CodeQL](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-frontend/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-frontend/actions/workflows/codeql-analysis.yml) [![Node.js Lint](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-frontend/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-frontend/actions/workflows/lint.yml) 
-
-### Other Workflows
-[![Auto-merge](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-frontend/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-frontend/actions/workflows/auto-merge.yml) 
 
 ## [wikidata-bot-framework](https://github.com/PythonCoderAS/wikidata-bot-framework)
 [![Auto Update](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/codeql-analysis.yml) [![Deploy Docs to Pages](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/docs.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/docs.yml) 
