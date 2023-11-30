@@ -111,6 +111,11 @@
 ### Other Workflows
 [![Auto-merge](https://github.com/PythonCoderAS/Wayback-Archiver-Client/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/Wayback-Archiver-Client/actions/workflows/auto-merge.yml) 
 
+## [wayback-archiver-server-2](https://github.com/PythonCoderAS/wayback-archiver-server-2)
+[![Docker](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/docker-publish.yml) 
+
+
+
 ## [wikidata-animanga-db-matcher-backend](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend)
 [![CodeQL](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend/actions/workflows/codeql-analysis.yml) [![Node.js Lint](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend/actions/workflows/lint.yml) 
 
