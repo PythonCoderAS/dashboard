@@ -110,12 +110,6 @@
 ### Other Workflows
 [![Auto-merge](https://github.com/PythonCoderAS/user-repos-github-action-badge-generator/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/user-repos-github-action-badge-generator/actions/workflows/auto-merge.yml) 
 
-## [Wayback-Archiver-Client](https://github.com/PythonCoderAS/Wayback-Archiver-Client)
-[![Auto Update](https://github.com/PythonCoderAS/Wayback-Archiver-Client/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/Wayback-Archiver-Client/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/Wayback-Archiver-Client/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/Wayback-Archiver-Client/actions/workflows/codeql-analysis.yml) 
-
-### Other Workflows
-[![Auto-merge](https://github.com/PythonCoderAS/Wayback-Archiver-Client/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/Wayback-Archiver-Client/actions/workflows/auto-merge.yml) 
-
 ## [wayback-archiver-server-2](https://github.com/PythonCoderAS/wayback-archiver-server-2)
 [![Docker](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/docker-publish.yml) 
 
