@@ -111,7 +111,7 @@
 [![Auto-merge](https://github.com/PythonCoderAS/user-repos-github-action-badge-generator/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/user-repos-github-action-badge-generator/actions/workflows/auto-merge.yml) 
 
 ## [wayback-archiver-server-2](https://github.com/PythonCoderAS/wayback-archiver-server-2)
-[![Docker](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/docker-publish.yml) 
+[![Backend Format](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/backend-format.yml/badge.svg)](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/backend-format.yml) [![Backend Lint](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/backend-lint.yml/badge.svg)](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/backend-lint.yml) [![Docker](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/docker-publish.yml) [![Frontend Format](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/frontend-format.yml/badge.svg)](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/frontend-format.yml) [![Frontend Lint](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/frontend-lint.yml/badge.svg)](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/frontend-lint.yml) 
 
 
 
