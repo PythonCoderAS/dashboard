@@ -18,7 +18,6 @@ jobs:
       matrix:
         user:
           - PythonCoderAS
-          - flyboat-org
     steps:
       - uses: actions/checkout@v4
       - name: Setup node
