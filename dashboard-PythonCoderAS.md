@@ -86,6 +86,16 @@
 ### Other Workflows
 [![Auto-merge](https://github.com/PythonCoderAS/homebrew-auto-upgrade/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/homebrew-auto-upgrade/actions/workflows/auto-merge.yml) 
 
+## [myanimelist-forum-queue-docker](https://github.com/PythonCoderAS/myanimelist-forum-queue-docker)
+[![Build Docker Container](https://github.com/PythonCoderAS/myanimelist-forum-queue-docker/actions/workflows/docker.yml/badge.svg)](https://github.com/PythonCoderAS/myanimelist-forum-queue-docker/actions/workflows/docker.yml) 
+
+
+
+## [pokestarbot-v1-docker](https://github.com/PythonCoderAS/pokestarbot-v1-docker)
+[![Build Docker Container](https://github.com/PythonCoderAS/pokestarbot-v1-docker/actions/workflows/docker.yml/badge.svg)](https://github.com/PythonCoderAS/pokestarbot-v1-docker/actions/workflows/docker.yml) 
+
+
+
 ## [simple-tsx](https://github.com/PythonCoderAS/simple-tsx)
 [![Auto Update](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/codeql-analysis.yml) [![Node.js Lint](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/lint.yml) [![Node.js CI](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/test.yml/badge.svg)](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/test.yml) 
 
