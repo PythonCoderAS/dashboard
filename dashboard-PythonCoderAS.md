@@ -11,10 +11,10 @@
 [![Auto-merge](https://github.com/PythonCoderAS/array-string-map/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/auto-merge.yml) [![Greetings](https://github.com/PythonCoderAS/array-string-map/actions/workflows/greetings.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/greetings.yml) [![Node.js Package](https://github.com/PythonCoderAS/array-string-map/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/npm-publish.yml) 
 
 ## [bbcode-ast](https://github.com/PythonCoderAS/bbcode-ast)
-[![Auto Update](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/codeql-analysis.yml) [![Build Documentation](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/docs.yml/badge.svg)](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/docs.yml) [![Node.js Lint](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/lint.yml) [![Node.js CI](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/test.yml/badge.svg)](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/test.yml) 
+[![CodeQL](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/codeql-analysis.yml) [![Build Documentation](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/docs.yml/badge.svg)](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/docs.yml) [![Node.js Lint](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/lint.yml) [![Node.js CI](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/test.yml/badge.svg)](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/test.yml) 
 
 ### Other Workflows
-[![Auto-merge](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/auto-merge.yml) [![Node.js Package](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/publish.yml/badge.svg)](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/publish.yml) 
+[![Node.js Package](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/publish.yml/badge.svg)](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/publish.yml) 
 
 ## [concurrent-priority-worker-queue](https://github.com/PythonCoderAS/concurrent-priority-worker-queue)
 [![Auto Update](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/codeql-analysis.yml) 
@@ -27,11 +27,6 @@
 
 ### Other Workflows
 [![Auto-merge](https://github.com/PythonCoderAS/dashboard/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/dashboard/actions/workflows/auto-merge.yml) 
-
-## [docker-containers](https://github.com/PythonCoderAS/docker-containers)
-[![Docker](https://github.com/PythonCoderAS/docker-containers/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/PythonCoderAS/docker-containers/actions/workflows/docker-publish.yml) 
-
-
 
 ## [eslint-config-pythoncoderas](https://github.com/PythonCoderAS/eslint-config-pythoncoderas)
 [![Auto Update](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/auto-update.yml) [![Semantic Release](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/build.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/build.yml) [![CodeQL](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/codeql-analysis.yml) [![Node.js Lint](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/lint.yml) 
@@ -85,16 +80,6 @@
 
 ### Other Workflows
 [![Auto-merge](https://github.com/PythonCoderAS/homebrew-auto-upgrade/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/homebrew-auto-upgrade/actions/workflows/auto-merge.yml) 
-
-## [myanimelist-forum-queue-docker](https://github.com/PythonCoderAS/myanimelist-forum-queue-docker)
-[![Build Docker Container](https://github.com/PythonCoderAS/myanimelist-forum-queue-docker/actions/workflows/docker.yml/badge.svg)](https://github.com/PythonCoderAS/myanimelist-forum-queue-docker/actions/workflows/docker.yml) 
-
-
-
-## [pokestarbot-v1-docker](https://github.com/PythonCoderAS/pokestarbot-v1-docker)
-[![Build Docker Container](https://github.com/PythonCoderAS/pokestarbot-v1-docker/actions/workflows/docker.yml/badge.svg)](https://github.com/PythonCoderAS/pokestarbot-v1-docker/actions/workflows/docker.yml) 
-
-
 
 ## [simple-tsx](https://github.com/PythonCoderAS/simple-tsx)
 [![Auto Update](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/codeql-analysis.yml) [![Node.js Lint](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/lint.yml) [![Node.js CI](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/test.yml/badge.svg)](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/test.yml) 
