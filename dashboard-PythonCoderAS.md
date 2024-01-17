@@ -22,6 +22,11 @@
 ### Other Workflows
 [![Auto-merge](https://github.com/PythonCoderAS/dashboard/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/dashboard/actions/workflows/auto-merge.yml) 
 
+## [docker-example](https://github.com/PythonCoderAS/docker-example)
+[![Docker](https://github.com/PythonCoderAS/docker-example/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/PythonCoderAS/docker-example/actions/workflows/docker-publish.yml) 
+
+
+
 ## [eslint-config-pythoncoderas](https://github.com/PythonCoderAS/eslint-config-pythoncoderas)
 [![Auto Update](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/auto-update.yml) [![Semantic Release](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/build.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/build.yml) [![CodeQL](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/codeql-analysis.yml) [![Node.js Lint](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/eslint-config-pythoncoderas/actions/workflows/lint.yml) 
 
