@@ -114,11 +114,22 @@
 ### Other Workflows
 [![Auto-merge](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend/actions/workflows/auto-merge.yml) 
 
+## [wikidata-bot-framework](https://github.com/PythonCoderAS/wikidata-bot-framework)
+[![Auto Update](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/codeql-analysis.yml) [![Deploy Docs to Pages](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/docs.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/docs.yml) 
+
+### Other Workflows
+[![Auto-merge](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/auto-merge.yml) 
+
 ## [wikidata-item-sequence-creator](https://github.com/PythonCoderAS/wikidata-item-sequence-creator)
 [![Auto Update](https://github.com/PythonCoderAS/wikidata-item-sequence-creator/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-item-sequence-creator/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/wikidata-item-sequence-creator/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-item-sequence-creator/actions/workflows/codeql-analysis.yml) 
 
 ### Other Workflows
 [![Auto-merge](https://github.com/PythonCoderAS/wikidata-item-sequence-creator/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-item-sequence-creator/actions/workflows/auto-merge.yml) 
+
+## [wikidata-manga-import](https://github.com/PythonCoderAS/wikidata-manga-import)
+[![CodeQL](https://github.com/PythonCoderAS/wikidata-manga-import/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-manga-import/actions/workflows/codeql-analysis.yml) 
+
+
 
 ## [wikidata-mix-n-match-bot](https://github.com/PythonCoderAS/wikidata-mix-n-match-bot)
 [![Auto Update](https://github.com/PythonCoderAS/wikidata-mix-n-match-bot/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-mix-n-match-bot/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/wikidata-mix-n-match-bot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-mix-n-match-bot/actions/workflows/codeql-analysis.yml) 
