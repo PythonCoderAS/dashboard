@@ -119,6 +119,11 @@
 
 
 
+## [wikidata-fast-query](https://github.com/PythonCoderAS/wikidata-fast-query)
+[![CodeQL](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/codeql-analysis.yml) [![Deploy Docs to Pages](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/docs.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/docs.yml) [![Prettier Format](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/format-prettier.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/format-prettier.yml) [![Format](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/format.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/format.yml) [![Lint](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/lint.yml) [![Test](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/test.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/test.yml) [![Type Lint](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/type-lint.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-fast-query/actions/workflows/type-lint.yml) 
+
+
+
 ## [wikidata-item-sequence-creator](https://github.com/PythonCoderAS/wikidata-item-sequence-creator)
 [![Auto Update](https://github.com/PythonCoderAS/wikidata-item-sequence-creator/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-item-sequence-creator/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/wikidata-item-sequence-creator/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-item-sequence-creator/actions/workflows/codeql-analysis.yml) 
 
