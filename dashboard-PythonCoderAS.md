@@ -74,6 +74,11 @@
 ### Other Workflows
 [![Auto-merge](https://github.com/PythonCoderAS/homebrew-auto-upgrade/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/homebrew-auto-upgrade/actions/workflows/auto-merge.yml) 
 
+## [oracle-cloud-notes](https://github.com/PythonCoderAS/oracle-cloud-notes)
+[![CI](https://github.com/PythonCoderAS/oracle-cloud-notes/actions/workflows/ci.yml/badge.svg)](https://github.com/PythonCoderAS/oracle-cloud-notes/actions/workflows/ci.yml) [![Deploy Jekyll site to Pages](https://github.com/PythonCoderAS/oracle-cloud-notes/actions/workflows/pages.yml/badge.svg)](https://github.com/PythonCoderAS/oracle-cloud-notes/actions/workflows/pages.yml) 
+
+
+
 ## [simple-tsx](https://github.com/PythonCoderAS/simple-tsx)
 [![Auto Update](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/codeql-analysis.yml) [![Node.js Lint](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/lint.yml) [![Node.js CI](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/test.yml/badge.svg)](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/test.yml) 
 
