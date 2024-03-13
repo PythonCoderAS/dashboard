@@ -148,7 +148,7 @@
 [![Auto-merge](https://github.com/PythonCoderAS/wikidata-mix-n-match-bot/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-mix-n-match-bot/actions/workflows/auto-merge.yml) 
 
 ## [wikidata-npm-import](https://github.com/PythonCoderAS/wikidata-npm-import)
-[![Auto Update](https://github.com/PythonCoderAS/wikidata-npm-import/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-npm-import/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/wikidata-npm-import/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-npm-import/actions/workflows/codeql-analysis.yml) 
+[![Auto Update](https://github.com/PythonCoderAS/wikidata-npm-import/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-npm-import/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/wikidata-npm-import/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-npm-import/actions/workflows/codeql-analysis.yml) [![Docker](https://github.com/PythonCoderAS/wikidata-npm-import/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-npm-import/actions/workflows/docker-publish.yml) 
 
 ### Other Workflows
 [![Auto-merge](https://github.com/PythonCoderAS/wikidata-npm-import/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-npm-import/actions/workflows/auto-merge.yml) 
