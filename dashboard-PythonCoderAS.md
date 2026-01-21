@@ -1,20 +1,8 @@
-## [array-string-map](https://github.com/PythonCoderAS/array-string-map)
-[![Auto Update](https://github.com/PythonCoderAS/array-string-map/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/array-string-map/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/codeql-analysis.yml) [![Deploy static content to Pages](https://github.com/PythonCoderAS/array-string-map/actions/workflows/docs.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/docs.yml) 
-
-### Other Workflows
-[![Auto-merge](https://github.com/PythonCoderAS/array-string-map/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/auto-merge.yml) [![Greetings](https://github.com/PythonCoderAS/array-string-map/actions/workflows/greetings.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/greetings.yml) [![Node.js Package](https://github.com/PythonCoderAS/array-string-map/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/PythonCoderAS/array-string-map/actions/workflows/npm-publish.yml) 
-
 ## [bbcode-ast](https://github.com/PythonCoderAS/bbcode-ast)
 [![CodeQL](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/codeql-analysis.yml) [![Build Documentation](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/docs.yml/badge.svg)](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/docs.yml) [![Node.js Lint](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/lint.yml) [![Node.js CI](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/test.yml/badge.svg)](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/test.yml) 
 
 ### Other Workflows
 [![Node.js Package](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/publish.yml/badge.svg)](https://github.com/PythonCoderAS/bbcode-ast/actions/workflows/publish.yml) 
-
-## [concurrent-priority-worker-queue](https://github.com/PythonCoderAS/concurrent-priority-worker-queue)
-[![Auto Update](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/codeql-analysis.yml) 
-
-### Other Workflows
-[![Auto-merge](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/auto-merge.yml) [![Greetings](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/greetings.yml/badge.svg)](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/greetings.yml) [![Node.js Package](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/PythonCoderAS/concurrent-priority-worker-queue/actions/workflows/npm-publish.yml) 
 
 ## [dashboard](https://github.com/PythonCoderAS/dashboard)
 [![Generate new Dashboard](https://github.com/PythonCoderAS/dashboard/actions/workflows/generate.yml/badge.svg)](https://github.com/PythonCoderAS/dashboard/actions/workflows/generate.yml) 
@@ -44,11 +32,10 @@
 
 
 
-## [get-github-token](https://github.com/PythonCoderAS/get-github-token)
-[![Auto Update](https://github.com/PythonCoderAS/get-github-token/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/get-github-token/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/get-github-token/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/get-github-token/actions/workflows/codeql-analysis.yml) [![Node.js Lint](https://github.com/PythonCoderAS/get-github-token/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/get-github-token/actions/workflows/lint.yml) [![Node.js CI](https://github.com/PythonCoderAS/get-github-token/actions/workflows/test.yml/badge.svg)](https://github.com/PythonCoderAS/get-github-token/actions/workflows/test.yml) 
+## [get-fullchain-from-final](https://github.com/PythonCoderAS/get-fullchain-from-final)
+[![Docker](https://github.com/PythonCoderAS/get-fullchain-from-final/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/PythonCoderAS/get-fullchain-from-final/actions/workflows/docker-publish.yml) 
 
-### Other Workflows
-[![Auto-merge](https://github.com/PythonCoderAS/get-github-token/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/get-github-token/actions/workflows/auto-merge.yml) [![Node.js Package](https://github.com/PythonCoderAS/get-github-token/actions/workflows/publish.yml/badge.svg)](https://github.com/PythonCoderAS/get-github-token/actions/workflows/publish.yml) 
+
 
 ## [gh-all-repos](https://github.com/PythonCoderAS/gh-all-repos)
 [![CodeQL](https://github.com/PythonCoderAS/gh-all-repos/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/gh-all-repos/actions/workflows/codeql-analysis.yml) [![Node.js Lint](https://github.com/PythonCoderAS/gh-all-repos/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/gh-all-repos/actions/workflows/lint.yml) [![Node.js CI](https://github.com/PythonCoderAS/gh-all-repos/actions/workflows/test.yml/badge.svg)](https://github.com/PythonCoderAS/gh-all-repos/actions/workflows/test.yml) 
@@ -68,11 +55,15 @@
 ### Other Workflows
 [![Semantic Release](https://github.com/PythonCoderAS/github-run-script/actions/workflows/semantic-release.yml/badge.svg)](https://github.com/PythonCoderAS/github-run-script/actions/workflows/semantic-release.yml) 
 
-## [homebrew-auto-upgrade](https://github.com/PythonCoderAS/homebrew-auto-upgrade)
-[![Auto Update](https://github.com/PythonCoderAS/homebrew-auto-upgrade/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/homebrew-auto-upgrade/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/homebrew-auto-upgrade/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/homebrew-auto-upgrade/actions/workflows/codeql-analysis.yml) 
+## [h-at-home-docker](https://github.com/PythonCoderAS/h-at-home-docker)
+[![Docker](https://github.com/PythonCoderAS/h-at-home-docker/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/PythonCoderAS/h-at-home-docker/actions/workflows/docker-publish.yml) 
 
-### Other Workflows
-[![Auto-merge](https://github.com/PythonCoderAS/homebrew-auto-upgrade/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/homebrew-auto-upgrade/actions/workflows/auto-merge.yml) 
+
+
+## [info-design-tariffs](https://github.com/PythonCoderAS/info-design-tariffs)
+[![Deploy static content to Pages](https://github.com/PythonCoderAS/info-design-tariffs/actions/workflows/publish.yml/badge.svg)](https://github.com/PythonCoderAS/info-design-tariffs/actions/workflows/publish.yml) 
+
+
 
 ## [mangadex-post-to-myanimelist](https://github.com/PythonCoderAS/mangadex-post-to-myanimelist)
 [![Build Userscript](https://github.com/PythonCoderAS/mangadex-post-to-myanimelist/actions/workflows/build.yml/badge.svg)](https://github.com/PythonCoderAS/mangadex-post-to-myanimelist/actions/workflows/build.yml) [![CodeQL](https://github.com/PythonCoderAS/mangadex-post-to-myanimelist/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/mangadex-post-to-myanimelist/actions/workflows/codeql-analysis.yml) [![Node.js Lint](https://github.com/PythonCoderAS/mangadex-post-to-myanimelist/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/mangadex-post-to-myanimelist/actions/workflows/lint.yml) 
@@ -80,8 +71,8 @@
 ### Other Workflows
 [![Node.js Package](https://github.com/PythonCoderAS/mangadex-post-to-myanimelist/actions/workflows/publish.yml/badge.svg)](https://github.com/PythonCoderAS/mangadex-post-to-myanimelist/actions/workflows/publish.yml) 
 
-## [oracle-cloud-notes](https://github.com/PythonCoderAS/oracle-cloud-notes)
-[![CI](https://github.com/PythonCoderAS/oracle-cloud-notes/actions/workflows/ci.yml/badge.svg)](https://github.com/PythonCoderAS/oracle-cloud-notes/actions/workflows/ci.yml) [![Deploy Jekyll site to Pages](https://github.com/PythonCoderAS/oracle-cloud-notes/actions/workflows/pages.yml/badge.svg)](https://github.com/PythonCoderAS/oracle-cloud-notes/actions/workflows/pages.yml) 
+## [schemas](https://github.com/PythonCoderAS/schemas)
+[![Deploy to GitHub Pages](https://github.com/PythonCoderAS/schemas/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/PythonCoderAS/schemas/actions/workflows/gh-pages.yml) 
 
 
 
@@ -90,12 +81,6 @@
 
 ### Other Workflows
 [![Auto-merge](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/auto-merge.yml) [![Node.js Package](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/publish.yml/badge.svg)](https://github.com/PythonCoderAS/simple-tsx/actions/workflows/publish.yml) 
-
-## [SmartRange](https://github.com/PythonCoderAS/SmartRange)
-[![Auto Update](https://github.com/PythonCoderAS/SmartRange/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/SmartRange/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/SmartRange/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/SmartRange/actions/workflows/codeql-analysis.yml) 
-
-### Other Workflows
-[![Auto-merge](https://github.com/PythonCoderAS/SmartRange/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/SmartRange/actions/workflows/auto-merge.yml) 
 
 ## [subprocess-test-utils](https://github.com/PythonCoderAS/subprocess-test-utils)
 [![Auto Update](https://github.com/PythonCoderAS/subprocess-test-utils/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/subprocess-test-utils/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/subprocess-test-utils/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/subprocess-test-utils/actions/workflows/codeql-analysis.yml) [![Node.js Lint](https://github.com/PythonCoderAS/subprocess-test-utils/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/subprocess-test-utils/actions/workflows/lint.yml) [![Node.js CI](https://github.com/PythonCoderAS/subprocess-test-utils/actions/workflows/test.yml/badge.svg)](https://github.com/PythonCoderAS/subprocess-test-utils/actions/workflows/test.yml) 
@@ -108,22 +93,10 @@
 
 
 
-## [user-repos-github-action-badge-generator](https://github.com/PythonCoderAS/user-repos-github-action-badge-generator)
-[![Auto Update](https://github.com/PythonCoderAS/user-repos-github-action-badge-generator/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/user-repos-github-action-badge-generator/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/user-repos-github-action-badge-generator/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/user-repos-github-action-badge-generator/actions/workflows/codeql-analysis.yml) 
-
-### Other Workflows
-[![Auto-merge](https://github.com/PythonCoderAS/user-repos-github-action-badge-generator/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/user-repos-github-action-badge-generator/actions/workflows/auto-merge.yml) 
-
 ## [wayback-archiver-server-2](https://github.com/PythonCoderAS/wayback-archiver-server-2)
 [![Backend Format](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/backend-format.yml/badge.svg)](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/backend-format.yml) [![Backend Lint](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/backend-lint.yml/badge.svg)](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/backend-lint.yml) [![CodeQL](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/codeql-analysis.yml) [![Docker](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/docker-publish.yml) [![Frontend Format](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/frontend-format.yml/badge.svg)](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/frontend-format.yml) [![Frontend Lint](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/frontend-lint.yml/badge.svg)](https://github.com/PythonCoderAS/wayback-archiver-server-2/actions/workflows/frontend-lint.yml) 
 
 
-
-## [wikidata-animanga-db-matcher-backend](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend)
-[![CodeQL](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend/actions/workflows/codeql-analysis.yml) [![Node.js Lint](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend/actions/workflows/lint.yml) 
-
-### Other Workflows
-[![Auto-merge](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-animanga-db-matcher-backend/actions/workflows/auto-merge.yml) 
 
 ## [wikidata-bot-framework](https://github.com/PythonCoderAS/wikidata-bot-framework)
 [![CodeQL](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/codeql-analysis.yml) [![Deploy Docs to Pages](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/docs.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/docs.yml) [![Format](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/format.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/format.yml) [![Lint](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/lint.yml) [![Test](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/test.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-bot-framework/actions/workflows/test.yml) 
@@ -157,10 +130,4 @@
 [![Auto Update](https://github.com/PythonCoderAS/wikidata-npm-import/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-npm-import/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/wikidata-npm-import/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-npm-import/actions/workflows/codeql-analysis.yml) [![Docker](https://github.com/PythonCoderAS/wikidata-npm-import/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/PythonCoderAS/wikidata-npm-import/actions/workflows/docker-publish.yml) 
 
 
-
-## [zip-deployer](https://github.com/PythonCoderAS/zip-deployer)
-[![Auto Update](https://github.com/PythonCoderAS/zip-deployer/actions/workflows/auto-update.yml/badge.svg)](https://github.com/PythonCoderAS/zip-deployer/actions/workflows/auto-update.yml) [![CodeQL](https://github.com/PythonCoderAS/zip-deployer/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/zip-deployer/actions/workflows/codeql-analysis.yml) 
-
-### Other Workflows
-[![Auto-merge](https://github.com/PythonCoderAS/zip-deployer/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/PythonCoderAS/zip-deployer/actions/workflows/auto-merge.yml) 
 
