@@ -60,11 +60,6 @@
 
 
 
-## [info-design-tariffs](https://github.com/PythonCoderAS/info-design-tariffs)
-[![Deploy static content to Pages](https://github.com/PythonCoderAS/info-design-tariffs/actions/workflows/publish.yml/badge.svg)](https://github.com/PythonCoderAS/info-design-tariffs/actions/workflows/publish.yml) 
-
-
-
 ## [mangadex-post-to-myanimelist](https://github.com/PythonCoderAS/mangadex-post-to-myanimelist)
 [![Build Userscript](https://github.com/PythonCoderAS/mangadex-post-to-myanimelist/actions/workflows/build.yml/badge.svg)](https://github.com/PythonCoderAS/mangadex-post-to-myanimelist/actions/workflows/build.yml) [![CodeQL](https://github.com/PythonCoderAS/mangadex-post-to-myanimelist/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PythonCoderAS/mangadex-post-to-myanimelist/actions/workflows/codeql-analysis.yml) [![Node.js Lint](https://github.com/PythonCoderAS/mangadex-post-to-myanimelist/actions/workflows/lint.yml/badge.svg)](https://github.com/PythonCoderAS/mangadex-post-to-myanimelist/actions/workflows/lint.yml) 
 
